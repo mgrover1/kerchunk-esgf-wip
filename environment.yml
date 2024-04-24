@@ -1,0 +1,13 @@
+name: kerchunk-esgf-wip-dev
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - kerchunk
+  - jupyterlab
+  - fsspec
+  - hdf5
+  - xarray
+  - netCDF4
+  - aiohttp
+  - h5py
